@@ -1,0 +1,29 @@
+# Cho-Han
+
+A simple terminal-based Japanese dice game built in Python.
+
+Roll two dice and guess whether the total will be:
+
+- `CHO` → even
+- `HAN` → odd
+
+Start with **5000 mon** and see how long you can keep betting.
+
+---
+
+## Concepts Practiced
+
+- loops
+- conditionals
+- dictionaries
+- input validation
+- random function
+- game states(somewhat)
+
+---
+
+## Run
+
+```bash
+python main.py
+```
