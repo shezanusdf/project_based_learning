@@ -16,6 +16,7 @@ Every folder is a standalone project.
 python/
 └── games/
     └── cho-han/
+    └── lucky7/
 ```
 
 More projects coming soon...
